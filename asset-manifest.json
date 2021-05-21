@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/voice-app/static/css/main.dd25e0a8.chunk.css",
+    "main.js": "/voice-app/static/js/main.001f0065.chunk.js",
+    "main.js.map": "/voice-app/static/js/main.001f0065.chunk.js.map",
+    "runtime-main.js": "/voice-app/static/js/runtime-main.466cac9b.js",
+    "runtime-main.js.map": "/voice-app/static/js/runtime-main.466cac9b.js.map",
+    "static/js/2.d1ec16db.chunk.js": "/voice-app/static/js/2.d1ec16db.chunk.js",
+    "static/js/2.d1ec16db.chunk.js.map": "/voice-app/static/js/2.d1ec16db.chunk.js.map",
+    "index.html": "/voice-app/index.html",
+    "static/css/main.dd25e0a8.chunk.css.map": "/voice-app/static/css/main.dd25e0a8.chunk.css.map",
+    "static/js/2.d1ec16db.chunk.js.LICENSE.txt": "/voice-app/static/js/2.d1ec16db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.466cac9b.js",
+    "static/js/2.d1ec16db.chunk.js",
+    "static/css/main.dd25e0a8.chunk.css",
+    "static/js/main.001f0065.chunk.js"
+  ]
+}
