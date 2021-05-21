@@ -1,0 +1,12 @@
+.card {
+  width: 340px;
+  margin: 15px 0;
+  text-align: center;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 0 7px 1px #a4deff;
+}
+.text{
+  font-size: 18px;
+  margin: 15px 0;
+}
